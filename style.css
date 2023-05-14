@@ -1,0 +1,40 @@
+div{
+    background: yellowgreen;
+    width: 1000px;
+    height: 2000px;
+    margin: 20px auto;
+    border: 2px dotted black;
+    border-radius: 70px;
+}
+img{
+    width: 700px;
+    border-radius: 70px;
+}
+figure{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+#red{
+    color: red;
+}
+#white{
+    color: white;
+}
+.a{
+    color: rgb(71, 30, 30);
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.lightred2{
+    color: rgb(250, 69, 69);
+}
+.lightred{
+    text-transform: uppercase;
+    text-decoration:underline overline line-through ;
+    color: gray;
+}
+body{
+    background-color: chocolate;
+}
